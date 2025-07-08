@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vibha Yadav</h1>
-<h3 align="center">A passionate Java Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhayadav04&label=Profile%20views&color=0e75b6&style=flat" alt="vibhayadav04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhayadav04&label=Profile%20views&color=0e75b6&style=flat" alt="vibhayadav04" /> </
 
-- 🌱 I’m currently learning **Spring**
-
-- 📫 How to reach me **y.vibha0406@gmail.com**
+- 📫 How to reach me **vibhayadav0406@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
